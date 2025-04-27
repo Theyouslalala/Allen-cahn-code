@@ -1,0 +1,18 @@
+{
+    "d": 1,
+    "interval": 1,
+    "nx": 256,
+    "ny": 256,
+    "width": 70,
+    "depth": 3,
+    "dd": 1,
+    "lr": 0.001,
+    "beta": 0.01,
+    "xi": 1e-06,
+    "trainstep": 2000,
+    "pre_trainstep": 1000,
+    "pre_step": 100,
+    "minimal": 1e-14,
+    "step_size": 100,
+    "gamma": 0.99
+}
