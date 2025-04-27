@@ -1,4 +1,4 @@
-# 1D Allen-Cahn Solver via Energy Minimization PINN
+# An Energy Minimization-Based Deep Learning Approach with Enhanced Stability for the Allen-Cahn Equation
 
 This repository contains the 1D Python (PyTorch) implementation for the paper:
 
